@@ -1,4 +1,4 @@
-//https://www.acmicpc.net/problem/15649
+//https://www.acmicpc.net/problem/15649 N과 M (1)
 #include <iostream>
 using namespace std;
 
